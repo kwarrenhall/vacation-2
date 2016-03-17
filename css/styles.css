@@ -1,0 +1,21 @@
+body {
+  background-image: url(https://static.pexels.com/photos/55767/pexels-photo-55767-large.jpeg);
+  background-size: cover;
+}
+
+.shape {
+  background-color: white;
+  margin-left: 40%
+
+}
+
+.circleBase {
+  background-color: white;
+    height: 350px;
+    width: 350px;
+    border-radius: 100%;
+  margin-left: 40%;
+  margin-right: 45%:
+  Margin-top: 75%;
+  margin-bottom: 0%;
+}
